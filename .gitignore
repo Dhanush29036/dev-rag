@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ChromaDB
+chroma_db/
+*.sqlite3
+
+# Env
+.env

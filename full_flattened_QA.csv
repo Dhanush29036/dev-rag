@@ -1,0 +1,42 @@
+Question,Solution
+how to i get my Activation code,Hi resident please cont your RWA person for Activation code
+I recently do sign up in App but iam unable to see All tiles,"Hi resident, due to network issues then you have to remove App from backend and reopen it newly"
+Iam not receiving notifications.,"Enable notifications in app settings Check phone notification permissions Make sure Do Not Disturb (DND) is off  if still the profile continues, logout app and login again"
+Notifications not getting?,"Check your status, owner or tenant"
+why iam getting IVR calls from international number,Hi resident Don't panic IVR calls will be triggered if you dont perform any action on approval request with in the specified time and these calls are triggered from twilio which is a good reputated company
+If residents are receiving IVR calls instead of notifications,it indicates that gate pass notifications are not enabled for their mobile
+How i have to change my moving in status to CURRENT RESIDING,"Hi resident if you are a tenant and your status is in moving in, your owner have to make your moving status into current resident,if by any chance your owner can't make it ,kindly drop us a mail with your basic details like flat number, society name to gatepassai@gmail.com"
+How to edit profile,Click on profile  After that click on view profile Then we have to edit profile here
+how to add my vehicles,click on profile option  Here we have to see add vehicles option Click on add vehicles here we have to add your vehicles
+How to contact RWA within the society in the App,Go to Home screen > members Tab > Comitee (You can View all comittee members
+How to send the society notices,"To send a notice, go to the RWA section from the home screen. Open Notice Sent, choose the type (General, Emergency, or Warning), enter your message, and tap submit post.  ( If a normal resident asks “The RWA section is available only for RWA members. Contact your society admin for access."")"
+"How To Add Daily Help (Cook, Gardner, Etc...)","Hi sir go to profile section and there you will have an option like DAILY HELP in that you can select your MAID,COOK ETC.."
+How do i Approve my tenant,"Hi owner,if you want approve your tenant kindly click on the tenant management tile which is on the home screen there you will get list of your tenants there you have to approve your tenant as current resident."
+How to contact security through app,Click on security help tab  In this tab we have all options like security help admin visitors threat
+How to generate pre-approval pass to guests,Click on visitors tab  Click on + button  We have to give guest details  Then share pass to guests through WhatsApp
+Social tab,This Feature will be available on the app soon for your Society Internal Chats
+contact Support,You can reach us via Mail     : gatepassai@gmail.com                                    Phone :8050996382
+Can i Change Language,You can change the language  preference from the Home screen.  Select your preferred language: English (English)                                                    Hindi (हिन्दी)                                                    Telugu (తెలుగు)                                                     Punjabi (ਪੰਜਾਬੀ)                                                    Tamil (தமிழ்)                                                    Kannada (ಕನ್ನಡ)
+How can i Approve Delivery Boy,"To approve a delivery, you will receive a Custom Notification along with an in-app pop-up. You can Approve or Deny the request directly from the pop-up, or access it later in the Approvals tab"
+Where can i view my visitors,You can refer your visitors on the Home Screen > Visitors tab
+Payment status is not updated after completing the community maintanence payment.,"Wait for a few minutes after making the payment, then tap Check Status in the Payments section. Ensure your internet connection is stable and verify the payment in Transaction History before trying again."
+payment paid but not reflecting in payments still amount is showing.,(Check the month )( They paid dues but expecting current month amount disable )
+Paid maintenance but not received email,"go to profile section and check the email it is correct or wrong , if it is wrong you don't get mail for future invoice change the email , else check the spam ."
+Why is my payment failing?,"Check your bank balance Ensure card/UPI details are correct Try using a different payment method If amount is deducted but not updated, please contact gatePass customer support."
+"In the Payments tab, the payment option is not visible","only a checkbox is displayed. Please try closing and reopening the app. If the issue still persists, contact Gatepass support."
+How to view previous invoice,You can view Invoice in the payments   Go to the Payments on the Homescreen    Tap Payments > right corner Payment History ( Icon) > you can view all Previous invoices and Share
+"Slow/unstable internet connection impacts functionality – notifications are delayed or not received, while IVR calls may trigger first or inconsistently",Check your internet connection and switch to a better network if possible. Wait for a few minutes and refresh the app to get updates.
+Unable to receive OTP for Login/Signup (SMS LIMIT EXCEED/Network Request Failed),Hi sir try after some time you will get.
+OTP Not Recived For Login/Signup,"Check Once If Your messages are in Archived,SPAM,Blocked"
+After giving RWA access or Current residing status iam not getting full App acess,Hi resident kindly remove the app from backend and reopen it you will get full aceess for gatepass app
+Why iam not getting Any otp during login,"Hi resident if you are trying with wifi , do it with mobile data and first ensure that your mobile network has proper connectivity sometimes due to network issues otp will be delay"
+Why am I getting logged out automatically?,"This can happen due to: Session expiration for security reasons App running in background for long time Internet disconnection Please login again. If it happens frequently, update the app to the latest version."
+How to get RWA aacces,If you are a rwa member Please get the Approval from RWA member Then you can get access through gatePass.Ai Support
+App crashes or becomes unresponsive during critical actions (visitor entry / check-in process),Restart the app and try again. Make sure your app is updated and avoid closing it during the process.
+"⁠Significant delay in data synchronization (visitor status, approvals not updating in real-time between user and guard app",Pull down to refresh Wait a few seconds for updates and check your internet connection.
+Iam unable to update gatePass app,Hi resident please enable Auto update option in playstore or app store
+Why is the app not loading or showing a blank screen?,Ans : Check your internet connection Close and reopen the app Clear app cache (Android) Update the app to the latest version
+"uploaded an image, but it is not showing.","Check if the image size is not too large Ensure internet connection is stable Try uploading again If the problem continues, the server may be temporarily busy."
+The app is very slow or lagging. What should I do?,Check your internet speed Close background apps Restart your device Update the app to the latest version
+If a particular resident is not receiving the existing feature,it means their app has not been updated. Please check the app version.
+For Some IOS users cannot access to gatePass app after installing.,Go to IOS Device settings > Accessibility > Motion > Reduce motion gesture and Enable it
