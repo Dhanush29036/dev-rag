@@ -13,7 +13,9 @@ A simple RAG (Retrieval-Augmented Generation) system built with FastAPI, ChromaD
    ```bash
    pip install fastapi uvicorn chromadb google-generativeai requests
    ```
-2. Set your Gemini API key in `main.py`.
+2. Set your Gemini API key as an environment variable:
+   - **Windows (PowerShell):** `$env:GEMINI_API_KEY="your_api_key_here"`
+   - **Linux/macOS:** `export GEMINI_API_KEY="your_api_key_here"`
 3. Ingest the data:
    ```bash
    python seed_db.py

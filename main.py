@@ -5,13 +5,20 @@ import chromadb
 from chromadb.config import Settings
 import google.generativeai as genai
 import uuid
+import os
 
 # ----------------------------
 # CONFIG
 # ----------------------------
 
-# Gemini API Key
-genai.configure(api_key="AIzaSyBEpgdT_P7uRLfW42loHwaDDq82CQHwnvY")
+# Gemini API Key (Set this in your environment variables)
+api_key = os.getenv("GEMINI_API_KEY")
+if not api_key:
+    # Fallback/Placeholder - replace with actual key if needed for local testing
+    # api_key = "YOUR_API_KEY_HERE"
+    pass
+
+genai.configure(api_key=api_key)
 
 # Gemini Model
 model = genai.GenerativeModel("gemini-2.5-flash")
