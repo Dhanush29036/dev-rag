@@ -6,6 +6,10 @@ from chromadb.config import Settings
 import google.generativeai as genai
 import uuid
 import os
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 # ----------------------------
 # CONFIG
@@ -85,6 +89,7 @@ def chat(request: QueryRequest):
     # Step 3: Create prompt
     prompt = f"""
 You are an AI assistant. Answer the question based ONLY on the context below.
+Always speak in the users query language.
 
 Context:
 {context}
@@ -96,11 +101,11 @@ Answer clearly:
 """
 
     # Step 4: Gemini LLM call
-    response = model.generate_content(prompt)
-
+#    response = model.generate_content(prompt)
+    print(results)
     return {
         "query": request.query,
-        "answer": response.text,
+        "answer": "",
         "context_used": retrieved_docs
     }
 
