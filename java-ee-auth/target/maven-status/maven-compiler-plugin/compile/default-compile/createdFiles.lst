@@ -1,0 +1,5 @@
+com\example\auth\User.class
+com\example\auth\RegistrationServlet.class
+com\example\auth\UserStore.class
+com\example\auth\AuthServlet.class
+com\example\auth\LogoutServlet.class
