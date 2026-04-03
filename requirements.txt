@@ -6,3 +6,4 @@ google-generativeai
 python-dotenv
 pytest>0.0.0
 httpx>0.0.0
+python-multipart
